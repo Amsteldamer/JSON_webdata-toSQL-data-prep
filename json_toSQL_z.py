@@ -1,3 +1,7 @@
+#This is just a script for how I exstracted useful (structured) data from unstructured data consisting of web pages.
+#I am free to release the code, but not the data that this was used for.
+#It also shows how data may be sent to an SQLite database from within python.
+
 
 import json
 
